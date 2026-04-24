@@ -1,0 +1,13 @@
+repositories:
+  free_fleet:
+    type: git
+    url: https://github.com/askokostic/free_fleet.git
+    version: feat/nav2-route-sync
+  nav2_route_rmf:
+    type: git
+    url: https://github.com/AIT-Assistive-Autonomous-Systems/nav2_route_rmf.git
+    version: main
+  rmf_nav2_route_demo:
+    type: git
+    url: https://github.com/askokostic/rmf_nav2_route_demo.git
+    version: master
